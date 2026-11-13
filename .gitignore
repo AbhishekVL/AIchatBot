@@ -1,0 +1,12 @@
+# Environment variables (API keys)
+.env
+
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Django database
+db.sqlite3
